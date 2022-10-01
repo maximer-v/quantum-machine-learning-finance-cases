@@ -2,7 +2,7 @@
 
 This repository was created to compile real-world quantum machine learning cases. 
 
-> **Note:** This content is not considering cases with quantum annealers, or mainly regarding optimization problems, but supervised and unsupervised machine learning cases boosted by quantum computation.
+> **Note:** This content is not considering cases with quantum annealers, or mainly regarding optimization problems, but potential supervised and unsupervised machine learning cases boosted by quantum computation.
 
 ## CaixaBank (2020). 
 
