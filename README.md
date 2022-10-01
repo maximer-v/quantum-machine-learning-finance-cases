@@ -18,20 +18,6 @@ Spain
 
 https://www.caixabank.com/comunicacion/noticia/caixabank-becomes-the-first-spanish-bank-to-develop-risk-classification-model-using-quantum-computing_en.html?id=42234
 
-## Standard Chartered Bank (2020). 
-
-### Country
-
-United Kingdom
-
-### Extract or Reference
-
-"In finance, the most promising use cases with real-world applications include quantum machine learning models (gen/erating synthetic data and data anonymisation) and discriminative models (building strong classifiers and predictors) with multiple potential uses such as credit scoring and generating trading signals. As quantum computing technology matures, clients should benefit from higher quality services such as faster execution, better risk management and the development of new financial products." 
-
-### URL 
-
-https://www.sc.com/en/media/press-release/standard-chartered-and-universities-space-research-association-join-forces-on-quantum-computing/
-
 ## Itaú Unibanco (2022). 
 
 ### Country
