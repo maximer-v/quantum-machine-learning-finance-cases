@@ -1,4 +1,4 @@
-# Quantum Machine Learning (QML) use cases for the finance sector
+# Quantum Machine Learning (QML) Use Cases for the Finance Sector
 
 This repository was created to compile real-world quantum machine learning cases. 
 
