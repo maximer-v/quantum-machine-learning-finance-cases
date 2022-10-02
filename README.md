@@ -36,6 +36,16 @@ https://thequantuminsider.com/2022/05/11/qc-ware-applies-quantum-computing-princ
 
 # Potential cases
 
+## BBVA
+
+### Country
+
+Spain
+
+### URL (2020)
+
+https://www.bbva.com/en/bbva-pursues-the-financial-sectors-quantum-advantage/
+
 ## ABN Amro
 
 ### Country
