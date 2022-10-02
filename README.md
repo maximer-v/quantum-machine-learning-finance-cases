@@ -186,13 +186,4 @@ Canada
 
 https://financialpost.com/fp-finance/cryptocurrency/bank-of-canada-taps-quantum-computing-startup-to-tackle-complex-financial-problems
 
-## Bank of Canada
-
-### Country
-
-Canada
-
-### URL (2022)
-
-https://financialpost.com/fp-finance/cryptocurrency/bank-of-canada-taps-quantum-computing-startup-to-tackle-complex-financial-problems
 
