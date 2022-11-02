@@ -186,4 +186,13 @@ Canada
 
 https://financialpost.com/fp-finance/cryptocurrency/bank-of-canada-taps-quantum-computing-startup-to-tackle-complex-financial-problems
 
+## Kutxabank
+
+### Spain
+
+Canada
+
+### URL (2022)
+
+https://www.negocios.com/kutxabank-desarrolla-un-modelo-que-aplica-la-computacion-cuantica-en-sus-estrategias-de-inversion/
 
